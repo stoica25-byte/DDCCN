@@ -3,4 +3,4 @@
 ffosdnfovindsovni
 ## Modo de empleo
 [Acceso a la app](https://google.es)
-*usa la aplicacion bajo tu resposabilidad* 
+**usa la aplicacion bajo tu resposabilidad** 
